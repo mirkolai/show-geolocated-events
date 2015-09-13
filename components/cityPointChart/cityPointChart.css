@@ -1,0 +1,13 @@
+#map {
+    background-color: #fff;
+}
+
+path.city {
+    fill: #a5a5a5;
+
+}
+.circle.city {
+    fill: steelblue;
+    opacity: 0.8;
+
+}
